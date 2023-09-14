@@ -1,0 +1,303 @@
+id;age;sex;cough;dyspnea;chest_pain;duration;asthenea;anorexia;weight_loss;fever;sweating;hiv;cancer;weight;height;macroscopy;proteins;crp_pleu;ld;glucose;cytoly.pleu;PNN;lympho;meso;thb;globules.blancs;biopsy;TBpleu;metastasis;IMC;IMC_rec;age_rec;crp_pleu_rec
+1;62;female;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;58;1.69;yellowish;48;40.7;376;0.36;oui;20;≥50;;NA;0;oui;non;1;20.307412205455;normal;60+;40+
+2;62;male;oui;oui;oui;3;oui;oui;oui;oui;oui;non;non;58;1.73;yellowish;38.4;179.88;1374;0.81;oui;NA;≥50;;6.6;14300;oui;non;0;19.379197433927;normal;60+;40+
+3;29;female;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;58;1.72;yellowish;64;150.69;1157;0.84;oui;5;≥50;;NA;0;oui;oui;0;19.6051919956733;normal;<40;40+
+4;32;female;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;63;1.7;purulent;53.6;143.2;2475;0.95;oui;39;≥50;;NA;0;non;oui;0;21.7993079584775;normal;<40;40+
+5;29;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;64;1.69;yellowish;74.1;140.12;593;1.04;oui;NA;≥50;;NA;0;oui;oui;0;22.4081789853296;normal;<40;40+
+6;44;male;oui;oui;oui;4;oui;oui;oui;oui;oui;oui;non;61;1.72;hemorragic;61.3;134.93;9543;0.9;oui;40;≥50;0.0;10.5;10000;non;oui;0;20.619253650622;normal;40 to 60;40+
+7;47;male;oui;oui;oui;3;oui;oui;oui;oui;non;oui;non;70;1.78;yellowish;60.7;125.36;733;0.78;oui;NA;≥50;;NA;0;oui;oui;0;22.0931700542861;normal;40 to 60;40+
+8;52;female;oui;oui;;2;oui;oui;oui;non;non;non;non;63;1.71;yellowish;42;124.14;918;1.18;oui;31;≥50;;NA;0;oui;oui;0;21.5450907971684;normal;40 to 60;40+
+9;30;female;oui;oui;oui;3;oui;oui;oui;oui;oui;oui;non;45;1.73;yellowish;36.5;113.22;417;0.86;oui;35;≥50;;NA;0;oui;oui;0;15.0355842159778;thin;<40;40+
+10;54;female;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;65;1.73;yellowish;54.6;111.4;2180;0.78;oui;9;≥50;1.0;NA;NA;oui;oui;0;21.7180660897457;normal;40 to 60;40+
+11;26;male;oui;oui;oui;3;oui;oui;oui;non;non;non;non;86;1.59;serohematic;39.6;110.65;553;1.52;oui;8;≥50;0.0;13.7;14000;oui;non;1;34.0176417072109;obesity;<40;40+
+12;37;male;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;53;1.72;yellowish;111.8;107.97;1294;0.86;oui;29;≥50;;10.7;6870;oui;oui;0;17.9150892374256;thin;<40;40+
+13;57;male;oui;oui;oui;3;oui;oui;oui;oui;non;oui;non;73;1.72;yellowish;53.2;106.93;1211;1.72;oui;NA;≥50;;9;6600;oui;oui;0;24.6755002704164;normal;40 to 60;40+
+14;70;female;oui;oui;non;1;oui;oui;oui;oui;oui;non;non;60;1.78;serohematic;37.3;102.25;921;0.9;oui;NA;≥50;;NA;NA;oui;oui;0;18.9370029036738;normal;60+;40+
+15;48;female;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;90;1.63;yellowish;54.4;99.82;641;1.14;oui;0;≥50;0.0;10.3;7850;oui;oui;0;33.8740637585156;obesity;40 to 60;40+
+16;43;male;oui;oui;oui;2;non;oui;oui;oui;oui;oui;non;77;1.7;yellowish;51.7;98.44;2082;0.45;oui;0;≥50;2.0;10.5;13500;non;oui;0;26.643598615917;overweight;40 to 60;40+
+17;43;male;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;62;1.68;yellowish;56.2;97.8;559;1.02;oui;NA;≥50;;NA;0;oui;oui;0;21.9671201814059;normal;40 to 60;40+
+18;48;male;oui;oui;oui;2;non;non;oui;oui;oui;oui;non;60;1.66;yellowish;55.5;96;1529;0.99;oui;5;≥50;10.0;12.4;7000;non;oui;0;21.7738423573813;normal;40 to 60;40+
+19;51;female;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;60;1.75;yellowish;50.7;94.48;728;1.53;oui;20;≥50;1.0;5.7;6100;oui;oui;0;19.5918367346939;normal;40 to 60;40+
+20;27;female;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;49;1.7;yellowish;62;90.97;701;0.71;oui;NA;≥50;;NA;0;oui;oui;0;16.9550173010381;thin;<40;40+
+21;74;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;60;1.74;yellowish;43;90.96;612;0.98;oui;NA;≥50;;NA;0;oui;oui;0;19.8176773682124;normal;60+;40+
+22;75;male;oui;oui;oui;1;non;non;non;oui;oui;non;non;70;1.59;yellowish;40;90.3;3000;1.01;oui;3;≥50;2.0;10.51;6103;oui;non;0;27.6887781337764;overweight;60+;40+
+23;26;male;oui;oui;oui;1;oui;oui;oui;oui;non;oui;non;60;1.68;yellowish;32.8;90;399;0.72;oui;NA;≥50;;NA;NA;oui;oui;0;21.2585034013605;normal;<40;40+
+24;34;female;oui;oui;oui;4;oui;oui;oui;oui;oui;non;non;60;1.76;yellowish;50.8;89.78;1329;0.55;oui;NA;≥50;;NA;NA;oui;oui;0;19.3698347107438;normal;<40;40+
+25;35;female;oui;oui;non;3;oui;oui;oui;oui;oui;oui;non;70;1.7;yellowish;38.9;89.5;581;0.72;oui;5;≥50;;8.8;4600;oui;oui;0;24.2214532871972;normal;<40;40+
+26;30;male;oui;oui;oui;2;oui;oui;oui;oui;oui;oui;non;58;1.73;yellowish;53.8;89.2;1002;0.86;oui;NA;≥50;;NA;0;oui;oui;0;19.379197433927;normal;<40;40+
+27;39;male;oui;oui;oui;2;oui;oui;oui;oui;oui;oui;non;68;1.78;serohematic;48.5;88.65;1293;0.75;oui;27;≥50;0.0;9.2;8100;oui;oui;0;21.4619366241636;normal;<40;40+
+28;33;male;oui;oui;oui;3;oui;oui;oui;oui;oui;oui;non;63;1.78;yellowish;55;88;728;0.72;oui;NA;≥50;;NA;NA;oui;oui;0;19.8838530488575;normal;<40;40+
+29;29;female;oui;oui;oui;2;non;non;non;oui;oui;oui;non;65;1.58;cloudy;52;87.73;2032;0.48;oui;20;≥50;0.0;5.8;2200;non;oui;0;26.0374939913475;overweight;<40;40+
+30;36;female;oui;oui;non;1;oui;oui;oui;oui;oui;non;non;64.8;1.7;yellowish;53;87.44;1112;1.03;oui;0;≥50;;NA;NA;oui;oui;0;22.4221453287197;normal;<40;40+
+31;27;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;53;1.63;yellowish;41.3;85.85;613;0.62;oui;NA;≥50;;NA;0;oui;oui;0;19.9480597689036;normal;<40;40+
+32;33;male;oui;oui;oui;3;oui;oui;oui;oui;oui;non;non;60;1.73;yellowish;70.8;84.87;1507;0.77;oui;NA;≥50;;NA;0;oui;oui;0;20.0474456213038;normal;<40;40+
+33;60;female;oui;oui;non;NA;oui;oui;oui;oui;non;non;non;64;1.71;yellowish;41.9;83;439;0.8;oui;NA;≥50;;NA;0;non;oui;0;21.8870763653774;normal;40 to 60;40+
+34;52;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;69;1.8;yellowish;52;81.6;821;0.55;oui;NA;≥50;;NA;0;non;oui;0;21.2962962962963;normal;40 to 60;40+
+35;59;female;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;63;1.76;yellowish;58.4;80.46;1446;0.35;oui;13;≥50;;NA;0;oui;oui;0;20.338326446281;normal;40 to 60;40+
+36;37;male;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;59;1.7;yellowish;63;79.8;652;0.88;oui;47;≥50;;NA;0;oui;oui;0;20.4152249134948;normal;<40;40+
+37;64;male;non;oui;non;1;oui;oui;non;oui;non;non;non;70;1.72;purulent;35.6;77.84;1486;0.85;oui;5;≥50;0.0;12;29600;non;non;0;23.6614386154678;normal;60+;40+
+38;27;female;oui;oui;oui;1;non;oui;oui;oui;oui;oui;non;51;1.68;yellowish;63;77.34;782;1.03;oui;15;≥50;;NA;0;oui;oui;0;18.0697278911565;thin;<40;40+
+39;76;female;oui;oui;oui;1;oui;oui;oui;oui;non;oui;non;60;1.69;serohematic;56.41;76.78;969;1.3;oui;29;≥50;;NA;0;oui;oui;0;21.0076677987465;normal;60+;40+
+40;23;male;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;56;1.68;yellowish;52;76.3;987;0.78;oui;NA;≥50;;9.3;3500;non;oui;0;19.8412698412698;normal;<40;40+
+41;31;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;50;1.69;yellowish;40;76;619;0.89;oui;NA;≥50;;NA;0;oui;oui;0;17.5063898322888;thin;<40;40+
+42;18;male;oui;oui;non;2;oui;oui;oui;oui;oui;non;non;64;1.77;yellowish;49.9;75.91;1329;0.37;oui;0;≥50;;NA;0;oui;oui;0;20.4283571132178;normal;<40;40+
+43;37;female;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;62;1.79;yellowish;48;75.67;828;0.63;oui;NA;≥50;;NA;0;oui;oui;0;19.3502075465809;normal;<40;40+
+44;54;male;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;63;1.76;yellowish;36.9;75.43;664;0.66;oui;18;≥50;;NA;0;oui;oui;0;20.338326446281;normal;40 to 60;40+
+45;52;female;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;80;1.83;yellowish;66.7;71.91;1143;0.82;oui;46;≥50;;NA;0;oui;non;0;23.8884409806205;normal;40 to 60;40+
+46;29;female;oui;oui;oui;2;oui;non;oui;non;oui;oui;non;55;1.68;yellowish;44.9;70.29;676;1.23;oui;NA;≥50;;NA;NA;oui;oui;0;19.4869614512472;normal;<40;40+
+47;25;male;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;72;1.78;yellowish;41;69.7;589;1.2;oui;NA;≥50;;NA;NA;oui;oui;0;22.7244034844085;normal;<40;40+
+48;50;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;60;1.6;yellowish;68;69.51;2447;0.75;oui;35;≥50;0.0;12;4700;non;oui;0;23.4375;normal;40 to 60;40+
+49;43;male;oui;non;oui;3;oui;oui;oui;oui;oui;non;non;58;1.67;yellowish;63.5;69.22;1077;0.54;oui;2;≥50;1.0;NA;0;oui;oui;0;20.7967298935064;normal;40 to 60;40+
+50;43;male;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;60;1.65;yellowish;65.3;68.38;748;1.53;oui;8;≥50;;NA;0;oui;oui;0;22.038567493113;normal;40 to 60;40+
+51;63;male;oui;oui;oui;2;oui;oui;oui;oui;oui;oui;non;64;1.78;yellowish;43;68;511;1.08;oui;NA;≥50;;NA;0;oui;oui;0;20.1994697639187;normal;60+;40+
+52;35;female;oui;oui;oui;1;oui;oui;oui;oui;oui;oui;non;78;1.54;yellowish;77;67.02;3422;0.65;oui;2;≥50;3.0;12;8200;non;oui;0;32.8891887333446;obesity;<40;40+
+53;33;female;oui;oui;oui;1;non;non;non;oui;oui;non;non;60;1.65;yellowish;56;66.23;985;0.7;oui;2;≥50;0.0;11.7;4600;oui;oui;0;22.038567493113;normal;<40;40+
+54;28;female;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;75;1.77;yellowish;36;64.78;863;0.98;oui;47;≥50;;NA;0;oui;non;0;23.9394809920521;normal;<40;40+
+55;69;male;oui;oui;oui;1;oui;oui;non;oui;non;non;non;81;1.7;yellowish;49.1;63.77;2483;0.13;oui;41;≥50;4.0;15.2;17700;non;non;0;28.0276816608997;overweight;60+;40+
+56;62;male;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;79;1.85;yellowish;39;63;681;0.72;oui;NA;≥50;;NA;0;non;oui;0;23.0825420014609;normal;60+;40+
+57;46;male;oui;oui;oui;1;oui;oui;non;oui;non;oui;non;69;1.68;yellowish;64.2;62.19;2193;0.7;oui;5;≥50;10.0;10.9;6500;non;oui;0;24.4472789115646;normal;40 to 60;40+
+58;22;female;oui;oui;oui;4;oui;oui;oui;oui;oui;non;non;57;1.63;yellowish;52;59.46;3482;1.09;oui;5;≥50;2.0;7.2;11400;oui;oui;0;21.4535737137265;normal;<40;40+
+59;30;female;oui;oui;oui;1;oui;oui;oui;oui;oui;oui;non;58;1.69;yellowish;71.2;58.4;415;0.86;oui;NA;≥50;;NA;NA;oui;oui;0;20.307412205455;normal;<40;40+
+60;51;male;oui;oui;oui;2;oui;oui;oui;oui;non;oui;non;58;1.65;yellowish;41.2;58;638;0.76;oui;NA;≥50;;NA;0;oui;oui;0;21.3039485766759;normal;40 to 60;40+
+61;54;male;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;58;1.69;yellowish;37;57.91;752;1;oui;NA;≥50;;9.5;6400;oui;non;1;20.307412205455;normal;40 to 60;40+
+62;28;male;oui;oui;oui;1;non;non;oui;oui;oui;non;non;82;1.8;hemorragic;47;57.79;1232;0.68;oui;5;≥50;0.0;8.7;12400;non;oui;0;25.3086419753086;overweight;<40;40+
+63;28;male;oui;oui;oui;2;non;non;oui;oui;oui;non;non;80;1.78;hemorragic;51;57.79;3582;0.9;oui;4;≥50;0.0;9.7;10000;non;oui;0;25.2493372048984;overweight;<40;40+
+64;46;male;oui;oui;non;2;oui;oui;oui;oui;non;oui;non;46;1.72;serohematic;43.9;57.5;2816;1.08;oui;NA;≥50;;7.6;4000;oui;oui;0;15.5489453758789;thin;40 to 60;40+
+65;39;male;oui;oui;non;2;oui;oui;oui;oui;non;non;non;70;1.79;serohematic;32.3;57.33;735;1.01;oui;40;≥50;;NA;0;oui;oui;0;21.8470085203333;normal;<40;40+
+66;64;male;oui;oui;non;3;oui;oui;oui;non;non;non;non;56.4;1.73;cloudy;65.6;57.13;1546;0.6;oui;50;≥50;0.0;6.7;5200;oui;oui;0;18.8445988840255;normal;60+;40+
+67;34;male;oui;oui;non;1;oui;oui;oui;oui;oui;non;non;74;1.79;yellowish;52;56.7;475;1;oui;32;≥50;;16.2;7300;oui;oui;0;23.0954090072095;normal;<40;40+
+68;49;male;oui;oui;oui;3;oui;oui;oui;oui;non;oui;non;51;1.72;yellowish;51.3;56.54;642;1;oui;NA;≥50;;8.4;1700;oui;oui;0;17.2390481341266;thin;40 to 60;40+
+69;47;male;oui;oui;non;1;oui;oui;oui;oui;oui;non;non;72;1.64;purulent;52;56.41;1008;0.91;oui;8;≥50;0.0;14;6200;oui;oui;0;26.7697798929209;overweight;40 to 60;40+
+70;43;male;oui;oui;oui;1;oui;oui;oui;oui;oui;oui;non;63;1.73;yellowish;52.9;55.89;878;0.35;oui;NA;≥50;;NA;0;oui;oui;0;21.0498179023689;normal;40 to 60;40+
+71;58;female;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;56;1.69;serohematic;39.7;55.53;604;0.76;oui;4;≥50;;13.4;4000;oui;non;0;19.6071566121634;normal;40 to 60;40+
+72;60;male;non;oui;non;2;oui;non;non;non;non;non;non;99;1.68;purulent;70;55.48;4679;0.71;oui;20;≥50;0.0;9;6000;oui;non;1;35.0765306122449;obesity;40 to 60;40+
+73;25;male;oui;oui;non;1;oui;oui;oui;oui;non;non;non;68;1.52;yellowish;50;55.4;2031;0.6;oui;6;≥50;0.0;8.5;17300;oui;oui;0;29.4321329639889;overweight;<40;40+
+74;83;female;oui;oui;oui;3;oui;oui;oui;oui;oui;non;non;80;1.75;serohematic;39;55.12;413;0.89;oui;NA;≥50;;NA;0;oui;non;0;26.1224489795918;overweight;60+;40+
+75;40;male;oui;oui;oui;1;oui;oui;oui;oui;oui;oui;non;63;1.76;yellowish;45;55.12;807;0.93;oui;18;≥50;;NA;0;oui;oui;0;20.338326446281;normal;<40;40+
+76;54;male;oui;oui;oui;1;oui;oui;oui;oui;non;oui;non;62;1.79;yellowish;46.9;54.82;1073;1.13;oui;NA;≥50;;NA;0;oui;oui;0;19.3502075465809;normal;40 to 60;40+
+77;47;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;70;1.8;serohematic;61;54.14;617;0.87;oui;NA;≥50;;10.2;20200;oui;non;1;21.6049382716049;normal;40 to 60;40+
+78;46;male;oui;oui;oui;1;oui;oui;oui;oui;non;oui;non;80;1.54;serohematic;51;54.11;853;0.74;oui;8;≥50;0.0;9.6;12600;oui;oui;0;33.7325012649688;obesity;40 to 60;40+
+79;17;female;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;57;1.73;yellowish;63.8;53.6;821;0.77;oui;NA;≥50;;NA;NA;oui;oui;0;19.0450733402386;normal;<40;40+
+80;52;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;50;1.7;serohematic;51.5;53.54;3764;0.61;oui;2;≥50;0.0;10;20600;non;oui;0;17.3010380622837;thin;40 to 60;40+
+81;42;female;oui;oui;oui;1;oui;oui;oui;oui;non;oui;non;53;1.72;yellowish;30.1;53.47;721;0.69;oui;46;≥50;;10.2;9400;oui;oui;0;17.9150892374256;thin;40 to 60;40+
+82;32;female;oui;oui;oui;2;oui;oui;oui;oui;oui;oui;non;62;1.73;yellowish;52;52.84;1041;0.99;oui;20;≥50;2.0;NA;0;oui;oui;0;20.7156938086805;normal;<40;40+
+83;72;female;oui;oui;non;1;oui;oui;oui;oui;oui;non;non;68;1.72;serohematic;31.9;52.82;498;0.61;oui;NA;≥50;;NA;0;oui;non;0;22.9853975121687;normal;60+;40+
+84;51;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;50;1.6;cloudy;55.6;52.8;515;1.74;oui;NA;≥50;;6.6;NA;oui;oui;0;19.53125;normal;40 to 60;40+
+85;35;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;67;1.7;yellowish;47;52.29;3647;0.74;oui;7;≥50;1.0;12;8500;oui;oui;0;23.1833910034602;normal;<40;40+
+86;26;male;oui;oui;oui;4;non;non;oui;oui;oui;non;non;65;1.54;yellowish;54;52.16;1206;0.62;oui;2;≥50;0.0;10;7000;non;oui;0;27.4076572777871;overweight;<40;40+
+87;45;male;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;53;1.65;yellowish;31.9;51.77;974;0.61;oui;NA;≥50;;NA;0;oui;oui;0;19.4674012855831;normal;40 to 60;40+
+88;48;male;oui;oui;oui;3;non;non;oui;oui;non;non;non;60;1.64;yellowish;42.83;51.32;309;0.49;oui;2;≥50;2.0;11.3;17500;oui;oui;0;22.3081499107674;normal;40 to 60;40+
+89;52;male;oui;non;oui;1;oui;oui;oui;oui;oui;non;non;84;1.84;yellowish;75;50.3;628;0.95;oui;NA;≥50;;NA;NA;oui;oui;0;24.8109640831758;normal;40 to 60;40+
+90;36;male;oui;non;non;1;oui;oui;oui;oui;oui;non;non;69;1.79;yellowish;53.5;50.24;1210;0.95;oui;NA;≥50;;NA;NA;oui;oui;0;21.5349083986143;normal;<40;40+
+91;66;male;oui;oui;non;1;oui;oui;oui;oui;oui;non;non;63;1.77;yellowish;45.8;49.8;667;0.57;oui;NA;≥50;;NA;0;oui;oui;0;20.1091640333238;normal;60+;40+
+92;62;female;oui;non;oui;1;non;non;oui;oui;oui;non;non;53;1.54;serohematic;47;49.38;392;1.25;oui;10;≥50;0.0;6.7;8700;oui;non;1;22.3477820880418;normal;60+;40+
+93;36;female;oui;oui;oui;2;oui;oui;oui;oui;non;oui;non;58;1.68;yellowish;32;49.32;624;0.48;oui;NA;≥50;;NA;0;non;oui;0;20.5498866213152;normal;<40;40+
+94;18;male;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;53;1.68;yellowish;38;49.3;437;0.59;oui;NA;≥50;;NA;0;oui;oui;0;18.7783446712018;normal;<40;40+
+95;54;male;oui;oui;non;2;oui;oui;oui;oui;oui;non;non;62;1.78;hemorragic;53;49;724;0.78;oui;NA;≥50;;NA;0;non;oui;0;19.5682363337962;normal;40 to 60;40+
+96;42;male;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;63;1.7;yellowish;31.1;49;537;1.2;oui;NA;≥50;;NA;NA;oui;oui;0;21.7993079584775;normal;40 to 60;40+
+97;32;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;58;1.67;yellowish;64;48.84;1916;0.73;oui;21;≥50;;NA;0;oui;oui;0;20.7967298935064;normal;<40;40+
+98;17;female;oui;non;non;1;oui;oui;oui;non;oui;non;non;65.2;1.7;cloudy;40.2;48.2;883;0.9;oui;2;≥50;;NA;0;oui;oui;0;22.560553633218;normal;<40;40+
+99;65;female;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;67;1.75;serohematic;36.9;48;829;0.89;oui;50;≥50;;NA;0;oui;oui;0;21.8775510204082;normal;60+;40+
+100;40;male;oui;oui;non;1;non;non;non;oui;oui;non;non;87;1.72;yellowish;64.1;48;1030;0.68;oui;2;≥50;0.0;10.5;2500;oui;oui;0;29.40778799351;overweight;<40;40+
+101;28;male;oui;oui;oui;4;oui;oui;oui;oui;oui;oui;non;50;1.61;hemorragic;50;47.39;535;0.37;oui;5;≥50;0.0;10.2;7000;non;oui;0;19.2893792677752;normal;<40;40+
+102;22;female;oui;oui;oui;1;oui;non;non;non;non;non;non;52;1.54;yellowish;40.6;47.19;1685;1.09;oui;0;≥50;1.0;8.1;8800;non;oui;0;21.9261258222297;normal;<40;40+
+103;32;female;oui;oui;oui;2;oui;oui;oui;oui;oui;oui;non;53;1.68;yellowish;58.9;46.99;617;0.9;oui;25;≥50;;NA;0;oui;oui;0;18.7783446712018;normal;<40;40+
+104;70;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;62;1.69;yellowish;58.2;46.89;2080;0.41;oui;29;≥50;1.0;NA;0;oui;non;0;21.7079233920381;normal;60+;40+
+105;58;female;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;50;1.75;yellowish;38;46.18;529;0.72;oui;NA;≥50;;NA;0;oui;non;1;16.3265306122449;thin;40 to 60;40+
+106;16;male;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;53;1.72;yellowish;59;46;678;0.63;oui;NA;≥50;;14;5600;oui;oui;0;17.9150892374256;thin;<40;40+
+107;40;male;non;oui;oui;1;oui;oui;oui;oui;oui;oui;non;88;1.63;yellowish;31.1;45.33;537;1.2;oui;20;≥50;0.0;8.6;7700;oui;non;1;33.1213067861041;obesity;<40;40+
+108;49;female;oui;oui;oui;1;non;non;oui;non;non;non;non;50;1.72;serohematic;63.4;44.43;1846;0.46;oui;10;≥50;15.0;9;15000;oui;non;1;16.901027582477;thin;40 to 60;40+
+109;24;male;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;65;1.75;yellowish;40.9;44.37;837;0.72;oui;NA;≥50;;NA;NA;non;oui;0;21.2244897959184;normal;<40;40+
+110;35;male;oui;oui;non;1;oui;oui;non;oui;non;non;non;70;1.54;yellowish;53.1;44.25;1547;0.35;oui;15;≥50;0.0;12.4;6270;oui;oui;0;29.5159386068477;overweight;<40;40+
+111;32;male;oui;oui;oui;1;non;non;non;oui;non;non;non;67;1.75;yellowish;57.4;43.73;512;0.72;oui;25;≥50;5.0;11.3;7500;non;non;0;21.8775510204082;normal;<40;40+
+112;51;male;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;73.4;1.78;yellowish;39;43;589;0.9;oui;0;≥50;;NA;NA;oui;oui;0;23.1662668854943;normal;40 to 60;40+
+113;63;male;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;60;1.7;yellowish;30.6;43;235;1.06;oui;NA;≥50;;NA;0;oui;oui;0;20.7612456747405;normal;60+;40+
+114;19;male;oui;oui;non;2;oui;oui;oui;oui;non;non;non;60;1.71;yellowish;35;42.82;509;0.49;oui;NA;≥50;;NA;0;oui;oui;0;20.5191340925413;normal;<40;40+
+115;39;male;oui;oui;oui;1;oui;oui;oui;oui;oui;oui;non;67;1.79;yellowish;43.5;42.54;1577;0.4;oui;NA;≥50;;NA;0;oui;non;0;20.9107081551762;normal;<40;40+
+116;30;female;oui;oui;oui;3;oui;oui;oui;oui;oui;oui;non;55;1.7;yellowish;37.3;42.49;663;1.43;oui;18;≥50;;NA;0;oui;oui;0;19.0311418685121;normal;<40;40+
+117;43;male;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;53;1.7;yellowish;57.6;42.31;404;0.84;oui;15;≥50;;NA;NA;oui;oui;0;18.3391003460208;thin;40 to 60;40+
+118;21;male;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;60;1.7;hemorragic;35.5;42.3;15850;0.77;oui;NA;≥50;;NA;NA;non;oui;0;20.7612456747405;normal;<40;40+
+119;22;male;oui;oui;oui;2;oui;oui;oui;non;non;non;non;55;1.69;purulent;36;42.27;624;0.72;oui;45;≥50;;13;11700;non;oui;0;19.2570288155177;normal;<40;40+
+120;60;male;oui;oui;oui;1;oui;oui;non;oui;non;non;non;71;1.65;yellowish;35.2;41.64;829;0.87;oui;2;≥50;1.0;8.8;16900;non;oui;0;26.078971533517;overweight;40 to 60;40+
+121;45;female;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;59;1.7;yellowish;37;40.76;1053;1.58;oui;NA;≥50;;NA;0;oui;oui;0;20.4152249134948;normal;40 to 60;40+
+122;81;male;oui;oui;oui;1;oui;oui;oui;non;non;non;non;64;1.7;serohematic;47;40.75;542;0.46;oui;NA;≥50;;10.1;4800;oui;non;0;22.1453287197232;normal;60+;40+
+123;75;female;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;81;1.75;yellowish;31.4;40.58;480;1.59;oui;NA;≥50;;NA;NA;oui;non;0;26.4489795918367;overweight;60+;40+
+124;41;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;52;1.69;yellowish;54;40.1;703;0.88;oui;NA;≥50;;NA;NA;oui;oui;0;18.2066454255803;thin;40 to 60;40+
+125;82;female;oui;oui;oui;1;oui;oui;oui;non;non;non;non;62;1.6;yellowish;38.4;40;803;1.02;oui;0;≥50;;NA;NA;oui;non;0;24.21875;normal;60+;<40
+126;41;male;oui;oui;non;3;oui;oui;oui;oui;oui;non;non;48;1.72;yellowish;39;39.94;718;1.03;oui;NA;≥50;;7.3;13300;oui;non;0;16.2249864791779;thin;40 to 60;<40
+127;72;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;60;1.68;yellowish;31.4;39.29;533;1.05;oui;NA;≥50;;NA;0;oui;non;0;21.2585034013605;normal;60+;<40
+128;54;female;oui;oui;non;1;oui;oui;oui;oui;non;non;oui;60;1.69;serohematic;34;39;492;0.62;oui;6;≥50;;6;14000;oui;non;1;21.0076677987465;normal;40 to 60;<40
+129;16;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;64;1.69;yellowish;49.5;37.6;281;0.86;oui;NA;≥50;;NA;0;oui;oui;0;22.4081789853296;normal;<40;<40
+130;42;male;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;55;1.69;yellowish;57.1;37.56;3373;0.58;oui;30;≥50;;NA;0;oui;oui;0;19.2570288155177;normal;40 to 60;<40
+131;50;male;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;60;1.72;yellowish;42.4;37.12;703;0.71;oui;4;≥50;;NA;0;oui;oui;0;20.2812330989724;normal;40 to 60;<40
+132;47;female;oui;oui;oui;2;non;non;non;non;non;non;oui;88;1.5;serohematic;83.5;36.54;3643;0.51;oui;30;≥50;0.0;10.7;7800;oui;non;1;39.1111111111111;obesity;40 to 60;<40
+133;43;male;oui;oui;oui;2;oui;oui;oui;oui;oui;oui;non;66;1.64;yellowish;41.5;36.03;572;0.9;oui;4;≥50;0.0;12.1;8400;non;oui;0;24.5389649018441;normal;40 to 60;<40
+134;20;male;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;62;1.7;yellowish;60;35.93;627;1.11;oui;NA;≥50;;NA;0;oui;oui;0;21.4532871972318;normal;<40;<40
+135;55;male;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;58;1.69;yellowish;38;35.74;407;0.67;oui;20;≥50;;NA;NA;oui;non;0;20.307412205455;normal;40 to 60;<40
+136;58;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;60;1.68;serohematic;36.5;34.85;1000;0.72;oui;27;≥50;3.0;NA;0;oui;oui;0;21.2585034013605;normal;40 to 60;<40
+137;67;female;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;40;1.66;serohematic;47.5;34.75;744;0.89;oui;16;≥50;0.0;7.6;12400;oui;oui;0;14.5158949049209;thin;60+;<40
+138;22;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;60;1.64;yellowish;59.2;34.37;445;0.86;oui;0;≥50;2.0;11.9;8500;oui;oui;0;22.3081499107674;normal;<40;<40
+139;16;female;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;63;1.7;yellowish;56;34.33;566;0.92;oui;33;≥50;;NA;0;non;oui;0;21.7993079584775;normal;<40;<40
+140;37;female;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;70;1.7;yellowish;61.3;33.89;514;0.9;oui;14;≥50;;NA;NA;oui;oui;0;24.2214532871972;normal;<40;<40
+141;66;male;oui;oui;oui;1;oui;oui;oui;non;oui;non;non;61;1.7;yellowish;30.1;33.39;253;1.24;oui;NA;≥50;;NA;0;oui;oui;0;21.1072664359862;normal;60+;<40
+142;47;male;oui;oui;oui;4;oui;oui;oui;oui;non;oui;non;63;1.55;yellowish;51.5;32.95;526;1.6;oui;28;≥50;0.0;6.5;14000;oui;non;1;26.2226847034339;overweight;40 to 60;<40
+143;51;female;oui;oui;non;2;oui;oui;oui;oui;oui;oui;non;40;1.53;yellowish;44.3;32.8;1243;0.72;oui;NA;≥50;;NA;0;oui;oui;0;17.0874449997864;thin;40 to 60;<40
+144;78;male;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;58;1.54;purulent;48.9;32.73;1408;0.64;oui;5;≥50;0.0;7.9;12000;non;oui;0;24.4560634171024;normal;60+;<40
+145;86;female;oui;oui;oui;2;oui;oui;oui;non;non;non;non;61;1.54;serohematic;32.5;32.53;1111;1.08;oui;20;≥50;0.0;7.2;10600;oui;non;1;25.7210322145387;overweight;60+;<40
+146;26;female;oui;oui;oui;2;oui;oui;oui;oui;oui;oui;non;55;1.69;yellowish;35.8;32;412;1;oui;NA;≥50;;NA;0;oui;oui;0;19.2570288155177;normal;<40;<40
+147;50;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;57;1.6;yellowish;42.6;30.9;2217;0.35;oui;26;≥50;2.0;13.5;10000;oui;oui;0;22.265625;normal;40 to 60;<40
+148;80;male;oui;oui;oui;2;oui;oui;oui;non;non;non;non;63;1.68;yellowish;47.3;30.75;568;0.83;oui;0;≥50;0.0;NA;NA;oui;non;0;22.3214285714286;normal;60+;<40
+149;52;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;78;1.62;yellowish;47.8;30.75;568;0.83;oui;17;≥50;0.0;11.4;6461;oui;oui;0;29.7210791037951;overweight;40 to 60;<40
+150;58;female;oui;oui;non;2;oui;oui;oui;oui;non;non;non;68;1.65;yellowish;62;30.74;398;0.48;oui;NA;≥50;;NA;0;oui;non;0;24.9770431588613;normal;40 to 60;<40
+151;76;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;60;1.69;serohematic;36.6;30.7;876;2;oui;NA;≥50;;NA;0;non;oui;0;21.0076677987465;normal;60+;<40
+152;61;male;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;69;1.8;yellowish;65.8;30.7;536;1.06;oui;NA;≥50;;NA;0;oui;oui;0;21.2962962962963;normal;60+;<40
+153;65;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;oui;64;1.7;serohematic;36.6;30.7;876;2.22;oui;NA;≥50;;NA;0;oui;non;1;22.1453287197232;normal;60+;<40
+154;33;female;oui;oui;non;1;non;non;oui;non;non;oui;non;88;1.54;serohematic;33.1;30.5;943;0.71;oui;1;≥50;33.0;7.6;3000;oui;non;1;37.1057513914657;obesity;<40;<40
+155;64;female;oui;oui;oui;3;oui;oui;oui;oui;non;oui;non;62;1.6;serohematic;47.6;30.44;874;0.9;oui;30;≥50;0.0;6;7900;oui;oui;0;24.21875;normal;60+;<40
+156;28;male;oui;oui;oui;4;oui;oui;non;oui;oui;oui;non;60;1.7;purulent;44;30.19;472;0.7;oui;20;≥50;0.0;7.4;7500;oui;non;1;20.7612456747405;normal;<40;<40
+157;43;male;oui;oui;non;1;oui;oui;oui;oui;non;non;non;56;1.68;yellowish;49.9;30.15;1440;1.16;oui;10;≥50;;NA;0;oui;non;0;19.8412698412698;normal;40 to 60;<40
+158;53;male;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;64;1.71;yellowish;38.7;30;750;0.59;oui;NA;≥50;;NA;NA;oui;non;1;21.8870763653774;normal;40 to 60;<40
+159;75;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;60;1.7;yellowish;37;30;262;0.87;oui;NA;≥50;;NA;0;oui;non;1;20.7612456747405;normal;60+;<40
+160;46;female;oui;oui;non;4;oui;oui;oui;non;oui;non;oui;58;1.74;serohematic;67;30;337;0.38;oui;NA;≥50;;NA;0;oui;non;1;19.1570881226054;normal;40 to 60;<40
+161;36;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;54;1.7;yellowish;44.5;30;759;1.08;oui;NA;≥50;;NA;0;oui;oui;0;18.6851211072664;normal;<40;<40
+162;24;female;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;45;1.6;yellowish;52.2;30;1118;1.24;oui;21;≥50;;NA;0;oui;oui;0;17.578125;thin;<40;<40
+163;26;male;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;55;1.73;purulent;38;30;349;0.39;oui;20;≥50;;NA;NA;non;oui;0;18.3768251528618;thin;<40;<40
+164;71;female;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;59;1.69;yellowish;37;30;343;1.37;oui;NA;≥50;;NA;0;oui;oui;0;20.6575400021008;normal;60+;<40
+165;38;female;oui;oui;oui;2;oui;oui;oui;oui;non;oui;non;49;1.72;yellowish;40.1;30;1032;0.72;oui;35;≥50;;NA;NA;oui;oui;0;16.5630070308275;thin;<40;<40
+166;44;male;oui;oui;oui;2;oui;oui;oui;oui;non;oui;non;61;1.7;yellowish;30.4;30;355;1.08;oui;NA;≥50;;NA;NA;oui;oui;0;21.1072664359862;normal;40 to 60;<40
+167;61;male;oui;oui;non;1;non;oui;oui;non;oui;oui;non;76;1.8;serohematic;39;30;709;0.92;oui;NA;≥50;;NA;0;oui;oui;0;23.4567901234568;normal;60+;<40
+168;20;female;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;59;1.7;yellowish;38.7;30;900;0.81;oui;NA;≥50;;11.3;4100;oui;oui;0;20.4152249134948;normal;<40;<40
+169;52;female;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;46;1.68;yellowish;53;30;826;0.87;;NA;≥50;;8.5;6800;oui;oui;0;16.2981859410431;thin;40 to 60;<40
+170;62;male;oui;oui;non;4;oui;oui;oui;non;oui;non;oui;55;1.69;serohematic;38;29.18;403;0.49;oui;NA;≥50;;NA;0;oui;non;1;19.2570288155177;normal;60+;<40
+171;63;male;oui;oui;non;1;oui;oui;oui;oui;oui;oui;non;60;1.78;yellowish;35.8;27.82;1100;1.37;oui;0;≥50;;NA;NA;oui;oui;0;18.9370029036738;normal;60+;<40
+172;54;male;oui;oui;oui;3;non;non;oui;non;oui;oui;non;89;1.75;serohematic;34.5;27.5;455;1.02;oui;0;≥50;2.0;10.8;6620;oui;oui;0;29.0612244897959;overweight;40 to 60;<40
+173;58;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;80;1.7;yellowish;34.7;26.52;459;0.73;oui;0;≥50;5.0;8.1;6200;oui;oui;0;27.681660899654;overweight;40 to 60;<40
+174;63;male;oui;oui;non;3;oui;oui;oui;oui;non;non;non;61;1.79;yellowish;72;26.28;503;0.72;oui;NA;≥50;;7.5;3600;non;oui;0;19.0381074248619;normal;60+;<40
+175;41;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;80;1.77;yellowish;55;26.12;537;1.01;oui;5;≥50;1.0;11;6900;oui;oui;0;25.5354463915222;overweight;40 to 60;<40
+176;80;male;oui;oui;oui;2;oui;oui;oui;non;non;non;non;64;1.52;yellowish;35.1;25.32;229;0.99;oui;25;≥50;0.0;9.4;13600;oui;non;0;27.7008310249307;overweight;60+;<40
+177;61;male;oui;oui;non;1;oui;oui;oui;oui;non;non;non;74;1.79;yellowish;35;25;376;0.78;oui;NA;≥50;;13;6000;oui;non;0;23.0954090072095;normal;60+;<40
+178;36;female;oui;oui;oui;1;oui;oui;oui;oui;oui;oui;non;59;1.72;serohematic;36;25;512;0.98;oui;NA;≥50;;NA;NA;oui;non;1;19.9432125473229;normal;<40;<40
+179;30;male;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;60;1.8;yellowish;51.6;24.93;683;0.69;oui;NA;≥50;;NA;0;oui;oui;0;18.5185185185185;normal;<40;<40
+180;38;female;oui;oui;oui;3;oui;oui;oui;oui;non;oui;non;60;1.71;yellowish;41;24.84;734;0.76;oui;6;≥50;;NA;3100;oui;non;0;20.5191340925413;normal;<40;<40
+181;50;female;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;69;1.75;yellowish;39.8;24.7;387;1.55;oui;NA;≥50;;NA;0;oui;non;0;22.530612244898;normal;40 to 60;<40
+182;42;female;oui;oui;non;1;oui;non;oui;oui;non;non;non;53;1.69;yellowish;56.4;24.11;2096;0.94;oui;NA;≥50;;10.9;7900;oui;non;1;18.5567732222261;normal;40 to 60;<40
+183;60;female;oui;oui;oui;1;oui;non;non;oui;non;non;non;60;1.54;serohematic;33;24;2448;0.68;oui;25;≥50;0.0;9.3;6000;oui;non;0;25.2993759487266;overweight;40 to 60;<40
+184;67;male;oui;oui;non;1;non;non;oui;oui;non;non;non;73;1.65;purulent;60.6;24;574;0.7;oui;4;≥50;0.0;12.5;8890;oui;oui;0;26.8135904499541;overweight;60+;<40
+185;53;male;oui;non;oui;3;non;non;oui;oui;oui;non;non;74;1.68;yellowish;64;23.91;3926;0.6;oui;30;≥50;0.0;9.7;6700;oui;oui;0;26.218820861678;overweight;40 to 60;<40
+186;46;female;oui;oui;oui;2;oui;oui;oui;non;non;non;oui;86;1.55;purulent;44.4;23.55;1038;1.21;oui;22;≥50;10.0;7.2;9300;oui;non;1;35.79604578564;obesity;40 to 60;<40
+187;47;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;61;1.7;yellowish;44.5;22.72;472;1;oui;20;≥50;;NA;0;oui;oui;0;21.1072664359862;normal;40 to 60;<40
+188;49;female;oui;oui;oui;3;oui;oui;oui;oui;non;oui;oui;70;1.64;serohematic;39.6;22.53;453;1.09;oui;30;≥50;0.0;11.2;8200;oui;non;1;26.0261748958953;overweight;40 to 60;<40
+189;30;male;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;68;1.78;yellowish;58;21.81;563;1;oui;NA;≥50;;NA;NA;oui;oui;0;21.4619366241636;normal;<40;<40
+190;38;female;oui;oui;non;2;non;non;oui;non;non;non;oui;52;1.62;serohematic;40.2;21.75;387;1.01;oui;37;≥50;3.0;12;8500;oui;non;1;19.8140527358634;normal;<40;<40
+191;46;female;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;58;1.69;yellowish;53.1;21.23;560;1.7;oui;42;≥50;;NA;0;oui;oui;0;20.307412205455;normal;40 to 60;<40
+192;82;female;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;58;1.68;yellowish;35.7;21.21;314;0.31;oui;NA;≥50;;NA;0;oui;oui;0;20.5498866213152;normal;60+;<40
+193;49;female;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;59;1.7;yellowish;35.2;20.76;555;0.51;oui;NA;≥50;;NA;0;oui;non;1;20.4152249134948;normal;40 to 60;<40
+194;21;female;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;69;1.7;yellowish;31.7;20.76;360;1.11;oui;NA;≥50;;NA;NA;oui;oui;0;23.8754325259516;normal;<40;<40
+195;35;female;oui;oui;oui;1;oui;oui;oui;oui;oui;oui;non;66;1.76;yellowish;62.1;20.4;861;0.85;oui;NA;≥50;;NA;0;oui;oui;0;21.3068181818182;normal;<40;<40
+196;53;female;oui;oui;oui;1;oui;oui;oui;oui;oui;oui;non;54;1.69;hemorragic;65;20.35;3668;0.4;oui;NA;≥50;;12.3;4300;oui;oui;0;18.9069010188719;normal;40 to 60;<40
+197;25;female;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;58;1.69;yellowish;45;20.33;539;1.09;oui;18;≥50;;NA;0;non;oui;0;20.307412205455;normal;<40;<40
+198;58;female;oui;oui;oui;2;oui;oui;oui;oui;non;oui;non;60;1.76;yellowish;38;20.33;498;1.18;oui;20;≥50;;NA;0;oui;oui;0;19.3698347107438;normal;40 to 60;<40
+199;37;male;oui;oui;oui;2;non;non;oui;oui;non;oui;non;75;1.72;yellowish;58;20.24;1642;0.51;oui;28;≥50;0.0;7.8;2600;non;oui;0;25.3515413737155;overweight;<40;<40
+200;27;female;non;non;non;2;non;non;oui;oui;oui;non;non;77;1.64;purulent;42.3;20.12;648;0.97;oui;39;≥50;0.0;8.9;8000;oui;non;1;28.6287923854848;overweight;<40;<40
+201;61;female;oui;oui;oui;1;oui;oui;oui;oui;oui;oui;non;58;1.68;yellowish;40.2;19.38;1376;0.57;oui;NA;≥50;;NA;NA;oui;non;0;20.5498866213152;normal;60+;<40
+202;52;female;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;72;1.69;yellowish;30.5;18.99;809;1.17;oui;NA;≥50;;NA;0;oui;non;0;25.2092013584959;overweight;40 to 60;<40
+203;70;female;oui;oui;oui;4;oui;oui;oui;oui;non;non;non;52;1.63;yellowish;39;18.9;615;0.59;oui;50;≥50;;11.9;6600;oui;non;1;19.5716812826979;normal;60+;<40
+204;35;male;oui;oui;oui;4;oui;oui;oui;oui;oui;non;non;60;1.78;serohematic;43.9;18.3;707;1.45;oui;NA;≥50;;NA;0;oui;non;0;18.9370029036738;normal;<40;<40
+205;44;female;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;68;1.74;yellowish;45.3;17.69;339;1.09;oui;10;≥50;0.0;7.1;18700;oui;non;1;22.4600343506408;normal;40 to 60;<40
+206;38;male;oui;oui;oui;2;oui;oui;oui;oui;non;oui;non;63;1.69;yellowish;31.1;17.65;575;1.31;oui;15;≥50;;NA;0;oui;oui;0;22.0580511886839;normal;<40;<40
+207;38;female;oui;oui;oui;3;oui;oui;oui;oui;oui;non;non;50;1.76;purulent;37;17.34;675;0.52;oui;NA;≥50;;NA;0;non;oui;0;16.1415289256198;thin;<40;<40
+208;40;male;oui;oui;oui;3;oui;oui;oui;oui;oui;oui;non;58;1.69;yellowish;57.5;17.01;440;0.66;oui;NA;≥50;;NA;NA;oui;oui;0;20.307412205455;normal;<40;<40
+209;94;female;oui;oui;oui;1;oui;oui;oui;non;oui;non;non;56;1.68;yellowish;55.7;16.19;395;0.89;oui;22;≥50;;NA;0;oui;non;0;19.8412698412698;normal;60+;<40
+210;46;female;oui;oui;oui;2;oui;oui;oui;oui;oui;oui;non;55;1.67;yellowish;30.7;16.17;221;0.75;oui;NA;≥50;;NA;0;oui;oui;0;19.7210369679802;normal;40 to 60;<40
+211;60;male;oui;oui;non;2;oui;oui;oui;oui;oui;oui;non;57;1.62;yellowish;53;15.89;996;0.94;oui;1;≥50;0.0;6.3;8100;non;oui;0;21.7192501143118;normal;40 to 60;<40
+212;82;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;60;1.75;yellowish;57.1;15.33;830;0.56;oui;27;≥50;;NA;0;oui;non;1;19.5918367346939;normal;60+;<40
+213;61;male;oui;oui;oui;2;oui;oui;oui;non;oui;non;non;50;1.61;yellowish;41.8;15.3;1259;0.47;oui;14;≥50;0.0;11.6;7000;oui;oui;0;19.2893792677752;normal;60+;<40
+214;31;male;non;oui;oui;2;oui;oui;oui;oui;oui;non;non;63;1.73;yellowish;51.3;15.16;539;0.83;oui;NA;≥50;;NA;NA;oui;oui;0;21.0498179023689;normal;<40;<40
+215;54;female;oui;oui;oui;2;oui;oui;oui;oui;oui;non;oui;69;1.76;serohematic;38;12.9;313;1.89;oui;NA;≥50;;NA;0;oui;non;1;22.2753099173554;normal;40 to 60;<40
+216;25;female;oui;oui;oui;1;oui;oui;oui;oui;non;oui;non;55;1.74;yellowish;43.2;12.83;418;0.28;oui;24;≥50;;9.8;9800;oui;oui;0;18.1662042541947;thin;<40;<40
+217;29;female;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;60;1.74;yellowish;42.7;12.55;918;0.53;oui;10;≥50;;11.5;3700;oui;oui;0;19.8176773682124;normal;<40;<40
+218;72;female;oui;oui;oui;4;oui;oui;oui;oui;non;non;non;63;1.7;serohematic;35;12.23;234;1;oui;35;≥50;;11.6;9700;oui;non;0;21.7993079584775;normal;60+;<40
+219;38;female;oui;non;oui;4;oui;oui;oui;non;non;oui;oui;60;1.65;yellowish;43.9;12.22;407;1.2;oui;0;≥50;5.0;8;4000;oui;non;1;22.038567493113;normal;<40;<40
+220;82;male;oui;non;oui;4;oui;oui;oui;non;non;non;non;54.3;1.77;serohematic;43.1;11.93;1394;0.4;oui;NA;≥50;;NA;0;oui;non;1;17.3321842382457;thin;60+;<40
+221;46;female;oui;oui;oui;2;oui;oui;oui;non;oui;non;non;59;1.69;yellowish;32.9;9.05;913;0.85;oui;NA;≥50;;NA;0;oui;non;0;20.6575400021008;normal;40 to 60;<40
+222;65;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;64;1.79;serohematic;62.2;80.98;595;0.97;oui;25;≥50;4.0;NA;0;oui;non;0;19.974407790019;normal;60+;40+
+223;65;male;non;oui;oui;3;oui;oui;oui;oui;oui;oui;non;60;1.69;yellowish;62.2;8.98;595;0.97;oui;NA;≥50;;NA;0;oui;oui;0;21.0076677987465;normal;60+;<40
+224;37;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;61;1.7;yellowish;58.6;8.94;316;0.84;oui;9;≥50;1.0;NA;0;oui;non;1;21.1072664359862;normal;<40;<40
+225;53;male;oui;oui;oui;1;non;oui;non;non;oui;non;non;86;1.54;yellowish;32.6;8.92;470;1.78;oui;22;≥50;0.0;11.5;11200;oui;non;0;36.2624388598415;obesity;40 to 60;<40
+226;51;female;oui;oui;oui;3;oui;oui;oui;oui;oui;non;non;58;1.73;serohematic;35.7;8.78;314;0.86;oui;38;≥50;;NA;0;oui;non;1;19.379197433927;normal;40 to 60;<40
+227;69;female;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;64;1.76;yellowish;47.2;8.76;564;0.73;oui;23;≥50;;NA;0;oui;non;0;20.6611570247934;normal;60+;<40
+228;34;female;oui;oui;oui;1;oui;oui;oui;oui;oui;oui;non;55;1.7;serohematic;44.7;8.71;1850;0.53;oui;NA;≥50;;NA;NA;oui;non;0;19.0311418685121;normal;<40;<40
+229;40;male;oui;oui;oui;3;oui;oui;oui;oui;oui;non;non;64;1.76;yellowish;48.3;80.58;763;1.1;oui;NA;≥50;;NA;0;oui;oui;0;20.6611570247934;normal;<40;40+
+230;28;female;oui;oui;non;4;oui;oui;oui;non;non;oui;non;68;1.72;serohematic;37.7;8.42;359;0.97;oui;25;≥50;0.0;7.7;11300;oui;non;0;22.9853975121687;normal;<40;<40
+231;39;male;oui;oui;oui;2;oui;non;oui;oui;non;oui;non;62;1.59;purulent;58;6.88;1736;0.87;oui;4;≥50;96.0;12;8700;oui;non;0;24.5243463470591;normal;<40;<40
+232;58;female;oui;oui;oui;2;oui;oui;oui;oui;non;non;non;60;1.68;yellowish;41;6.78;417;0.92;oui;NA;≥50;;13.2;7000;oui;non;0;21.2585034013605;normal;40 to 60;<40
+233;67;female;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;60;1.63;yellowish;51.4;6.28;540;2.4;oui;NA;≥50;;NA;0;oui;non;1;22.5827091723437;normal;60+;<40
+234;41;female;oui;oui;oui;1;oui;oui;oui;oui;non;oui;non;58;1.74;yellowish;49.5;50.97;383;1.08;oui;NA;≥50;;NA;0;oui;oui;0;19.1570881226054;normal;40 to 60;40+
+235;42;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;44;1.72;yellowish;38;5.97;724;0.44;oui;NA;≥50;;8.7;12600;oui;oui;0;14.8729042725798;thin;40 to 60;<40
+236;55;female;oui;oui;oui;2;oui;oui;oui;non;oui;non;non;62;1.7;yellowish;37.4;5.39;434;1.58;oui;NA;≥50;;NA;NA;oui;non;0;21.4532871972318;normal;40 to 60;<40
+237;32;female;non;oui;non;1;oui;oui;oui;oui;oui;non;non;60;1.76;serohematic;31.9;50.05;518;0.43;oui;50;≥50;;7.2;1900;oui;non;0;19.3698347107438;normal;<40;40+
+238;68;male;oui;oui;oui;1;oui;oui;oui;non;oui;non;non;60;1.69;serohematic;32;3;263;0.81;oui;NA;≥50;0.0;NA;0;oui;non;1;21.0076677987465;normal;60+;<40
+239;28;male;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;68;1.78;yellowish;47.7;3;785;0.95;oui;35;≥50;;NA;0;oui;non;0;21.4619366241636;normal;<40;<40
+240;75;male;oui;oui;oui;2;oui;oui;non;non;non;non;non;50;1.65;serohematic;37;48.28;623;1.3;oui;10;≥50;0.0;10;14700;oui;non;0;18.3654729109275;thin;60+;40+
+241;35;male;oui;oui;oui;3;oui;oui;oui;non;non;non;oui;64;1.67;serohematic;40.2;76.46;548;0.5;oui;0;≥50;40.0;8.9;11400;oui;non;0;22.9481157445588;normal;<40;40+
+242;69;male;oui;oui;oui;3;oui;oui;oui;non;non;non;oui;69;1.75;yellowish;40.1;57.98;232;0.56;oui;10;≥50;0.0;7.9;NA;oui;non;0;22.530612244898;normal;60+;40+
+243;64;female;oui;oui;oui;3;non;non;non;non;non;non;non;54;1.6;yellowish;30.4;3;347;0.85;oui;1;≥50;0.0;8.9;6100;oui;non;0;21.09375;normal;60+;<40
+244;34;male;oui;oui;oui;4;oui;non;non;oui;non;non;non;75;1.72;yellowish;39;3;342;0.65;oui;7;≥50;3.0;NA;5600;oui;oui;0;25.3515413737155;overweight;<40;<40
+245;61;male;oui;oui;oui;3;oui;oui;oui;non;non;non;non;52;1.7;yellowish;38;10;223;1.19;oui;30;≥50;0.0;8.5;6100;oui;oui;0;17.9930795847751;thin;60+;<40
+246;83;female;oui;oui;oui;6;oui;oui;oui;non;non;non;oui;56;1.58;serohematic;1;18;498;1.12;oui;NA;;0.0;10.6;2500;oui;non;1;22.4323025156225;normal;60+;<40
+247;67;female;oui;oui;oui;3;oui;oui;oui;non;non;non;non;56;1.59;serohematic;52;3;740;0.6;oui;10;≥50;0.0;13.9;3600;oui;non;1;22.1510225070211;normal;60+;<40
+248;25;male;oui;oui;non;7;oui;oui;oui;non;non;non;non;70;1.67;serohematic;41;44.6;390;0.86;oui;39;≥50;0.0;12.3;10000;oui;non;1;25.0995015956112;overweight;<40;40+
+249;63;male;oui;oui;oui;2;oui;oui;oui;non;non;non;non;89;1.8;serohematic;35.9;93.86;678;0.75;oui;33;≥50;0.0;11.7;3100;oui;non;0;27.4691358024691;overweight;60+;40+
+250;40;male;oui;oui;non;3;oui;oui;oui;oui;non;oui;non;63;1.75;serohematic;33.3;17.65;560;0.89;oui;15;≥50;0.0;7.9;2500;oui;non;0;20.5714285714286;normal;<40;<40
+251;38;female;non;non;oui;3;oui;oui;oui;oui;non;non;non;54;1.6;yellowish;37.8;204.68;399;1.5;;NA;;;7.9;3600;oui;oui;0;21.09375;normal;<40;40+
+252;32;male;oui;oui;oui;3;oui;oui;oui;oui;non;non;non;63;1.63;yellowish;43.4;3;542;0.79;oui;1;≥50;0.0;15;7400;oui;oui;0;23.7118446309609;normal;<40;<40
+253;46;male;oui;non;non;1;oui;non;oui;non;oui;oui;non;71;1.81;serohematic;45.2;116.03;763;0.67;oui;1;≥50;0.0;NA;NA;oui;oui;0;21.6721101309484;normal;40 to 60;40+
+254;28;male;oui;oui;non;1;oui;oui;oui;non;oui;non;non;54;1.72;serohematic;41.3;102.88;254;0.87;oui;1;≥50;0.0;NA;NA;oui;oui;0;18.2531097890752;thin;<40;40+
+255;45;female;oui;oui;oui;2;non;non;oui;non;non;oui;non;30;1.62;yellowish;39.5;234.34;654;1.17;oui;10;≥50;0.0;9.3;9000;oui;oui;0;11.4311842706904;thin;40 to 60;40+
+256;54;male;oui;oui;oui;1;oui;non;oui;non;non;non;non;45;1.65;yellowish;51.2;51;324;0.8;non;0;<50 ;0.0;0;4500;oui;non;0;16.5289256198347;thin;40 to 60;40+
+257;29;male;oui;oui;non;3;oui;oui;oui;non;oui;non;non;55;1.72;yellowish;34.4;44.33;540;0.79;non;0;<50 ;0.0;12.6;4510;oui;oui;0;18.5911303407247;normal;<40;40+
+258;17;male;oui;oui;non;2;oui;oui;oui;oui;non;non;non;60;1.84;yellowish;31.5;56.94;352;0.95;oui;0;≥50;0.0;11.2;4100;oui;oui;0;17.7221172022684;thin;<40;40+
+259;38;male;oui;oui;oui;1;oui;non;non;non;non;oui;non;71;1.75;yellowish;39;54.34;645;1.09;oui;13;≥50;2.0;10.3;6300;oui;oui;0;23.1836734693878;normal;<40;40+
+260;34;female;non;oui;oui;3;oui;oui;oui;non;non;non;non;64;1.68;serohematic;32.4;3;756;1.15;oui;55;≥50;0.0;0;NA;oui;non;0;22.6757369614512;normal;<40;<40
+261;32;female;oui;oui;oui;1;oui;oui;non;non;non;non;non;64;1.72;yellowish;36.8;3;435;0.99;oui;0;≥50;0.0;6.6;9600;oui;non;0;21.6333153055706;normal;<40;<40
+262;41;female;oui;non;non;6;oui;oui;oui;non;non;non;non;83;1.64;yellowish;56;6;856;1.06;non;0;<50 ;0.0;9.6;3600;oui;non;0;30.8596073765616;obesity;40 to 60;<40
+263;50;male;oui;oui;non;3;oui;oui;oui;oui;oui;oui;non;60;1.65;serohematic;34;30;532;0.89;oui;20;≥50;5.0;NA;NA;oui;non;0;22.038567493113;normal;40 to 60;<40
+264;32;male;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;68;1.74;serohematic;42.3;14.28;634;1.05;oui;20;≥50;0.0;14;5000;oui;non;0;22.4600343506408;normal;<40;<40
+265;85;male;oui;oui;oui;2;oui;oui;oui;non;non;non;non;61;1.64;serohematic;44.5;6;867;0.98;non;NA;;;NA;NA;oui;non;0;22.6799524092802;normal;60+;<40
+266;50;male;oui;oui;oui;6;oui;oui;oui;oui;oui;non;non;75;1.74;yellowish;34.7;27;436;0.67;non;0;<50 ;0.0;NA;NA;oui;non;0;24.7720967102656;normal;40 to 60;<40
+267;34;female;oui;oui;non;1;oui;oui;oui;oui;non;non;non;73;1.68;yellowish;33.7;234.34;305;0.78;oui;10;≥50;0.0;NA;NA;oui;non;0;25.8645124716553;overweight;<40;40+
+268;69;female;oui;oui;oui;1;oui;oui;oui;non;non;non;non;92;1.7;yellowish;42.4;10.86;256;0.75;oui;15;≥50;0.0;NA;NA;oui;non;0;31.8339100346021;obesity;60+;<40
+269;59;male;oui;oui;non;2;oui;oui;oui;oui;oui;non;non;81;1.8;yellowish;43;44.33;1045;1.08;oui;24;≥50;0.0;NA;NA;oui;non;0;25;normal;40 to 60;40+
+270;45;male;oui;non;oui;1;oui;oui;oui;non;non;non;non;50;1.68;yellowish;39;52.24;678;1.13;oui;25;≥50;0.0;NA;NA;oui;oui;0;17.7154195011338;thin;40 to 60;40+
+271;52;male;oui;oui;oui;3;oui;oui;oui;oui;oui;non;non;70;1.82;yellowish;32.3;112.04;789;0.86;oui;0;≥50;0.0;NA;NA;oui;oui;0;21.1327134404057;normal;40 to 60;40+
+272;66;female;oui;oui;oui;1;oui;non;oui;non;non;non;non;82;1.67;yellowish;35;89.52;375;0.59;oui;43;≥50;0.0;NA;NA;oui;non;0;29.4022732977159;overweight;60+;40+
+273;50;male;oui;oui;oui;3;oui;oui;oui;oui;oui;non;non;66;1.64;yellowish;32.4;3;347;1.23;oui;23;≥50;0.0;NA;NA;oui;non;0;24.5389649018441;normal;40 to 60;<40
+274;23;male;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;68;1.75;yellowish;33.3;91.8;596;0.87;oui;9;≥50;0.0;8.5;1600;oui;non;0;22.2040816326531;normal;<40;40+
+275;53;male;oui;oui;oui;1;oui;oui;oui;oui;oui;non;non;92;1.84;yellowish;41;36.6;679;0.51;oui;25;≥50;0.0;11.7;8600;oui;non;0;27.1739130434783;overweight;40 to 60;<40
+276;38;male;oui;oui;oui;3;oui;oui;oui;oui;oui;non;non;61;1.73;serohematic;35.8;25.6;424;1.11;oui;19;≥50;0.0;11.2;3800;oui;oui;0;20.3815697149921;normal;<40;<40
+277;71;female;oui;non;oui;3;non;non;non;non;non;non;non;55;1.6;yellowish;36;1;828;0.32;oui;18;≥50;0.0;10.3;11300;oui;non;0;21.484375;normal;60+;<40
+278;63;female;oui;oui;oui;3;oui;oui;oui;non;non;non;oui;87;1.6;serohematic;33.4;35;209;0.67;oui;10;≥50;0.0;11.6;5100;oui;non;1;33.984375;obesity;60+;<40
+279;74;male;non;non;oui;8;non;non;oui;non;non;non;non;51;1.61;yellowish;31.7;16.7;360;0.9;oui;4;≥50;0.0;5.9;4600;oui;non;0;19.6751668531307;normal;60+;<40
+280;66;female;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;63.3;1.7;yellowish;44.9;67.42;320;1.19;oui;39;≥50;0.0;8.7;8400;oui;non;0;21.9031141868512;normal;60+;40+
+281;49;male;oui;oui;oui;2;oui;oui;oui;oui;oui;non;non;70.3;1.72;yellowish;30;67;564;0.39;oui;30;≥50;0.0;8.2;5200;oui;non;0;23.7628447809627;normal;40 to 60;40+
+282;80;male;non;oui;oui;2;oui;oui;oui;non;non;non;non;66;1.62;yellowish;31;3;360;0.41;oui;20;≥50;0.0;NA;NA;oui;non;1;25.148605395519;overweight;60+;<40
+283;62;male;oui;oui;oui;3;oui;oui;oui;non;non;non;non;52;1.7;yellowish;33;45;410;1.19;oui;30;≥50;0.0;NA;NA;oui;oui;0;17.9930795847751;thin;60+;40+
+284;69;male;oui;oui;oui;3;oui;oui;oui;oui;oui;non;non;87.9;1.78;yellowish;35.2;76.58;1228;0.33;oui;10;≥50;0.0;14.2;5200;oui;oui;0;27.7427092538821;overweight;60+;40+
+285;38;female;oui;oui;oui;5;oui;oui;oui;oui;oui;non;non;81.5;1.83;yellowish;31;70.79;343;0.89;oui;26;≥50;0.0;8.9;5000;oui;non;0;24.3363492490071;normal;<40;40+
+286;35;female;oui;oui;non;1;non;non;non;non;non;non;non;51;1.67;serohematic;57.4;23.38;4275;0.92;oui;58;≥50;0.0;7;11500;oui;non;0;18.2867797339453;thin;<40;<40
+287;49;male;oui;oui;oui;4;oui;oui;oui;oui;non;non;non;74;1.76;yellowish;36.6;26.6;529;1.19;oui;45;≥50;5.0;11.1;12400;oui;non;1;23.8894628099174;normal;40 to 60;<40
+288;49;female;oui;oui;oui;5;oui;oui;oui;non;non;non;non;79;1.8;yellowish;61.2;85.4;305;1.61;oui;2;≥50;0.0;11.9;4100;oui;non;1;24.3827160493827;normal;40 to 60;40+
+289;39;female;oui;oui;oui;3;oui;oui;oui;non;non;non;non;91;1.85;yellowish;33.7;53.85;308;0.38;oui;10;≥50;0.0;7.5;8000;oui;non;0;26.5887509130752;overweight;<40;40+
+290;65;male;oui;oui;oui;3;oui;oui;oui;non;non;oui;non;66;1.7;yellowish;43.3;51;404;0.81;oui;4;≥50;0.0;14.8;5700;oui;non;1;22.8373702422145;normal;60+;40+
+291;62;female;oui;oui;oui;2;oui;oui;non;non;non;non;non;89;1.73;yellowish;40;51.82;603;0.99;oui;30;≥50;0.0;12.1;4690;oui;non;1;29.7370443382672;overweight;60+;40+
+292;43;female;oui;oui;oui;1;oui;oui;oui;oui;non;non;non;54;1.65;yellowish;32.9;35.32;678;1.24;oui;10;≥50;0.0;8.5;7200;oui;oui;0;19.8347107438017;normal;40 to 60;<40
+293;19;male;oui;oui;oui;8;oui;non;oui;oui;oui;non;non;75;1.73;yellowish;36.6;65.06;203;0.59;oui;10;≥50;0.0;12.4;5300;oui;oui;0;25.0593070266297;overweight;<40;40+
+294;83;female;oui;oui;oui;1;oui;non;oui;non;oui;non;non;45;1.65;yellowish;61;61.12;199;0.47;oui;25;≥50;0.0;NA;NA;oui;oui;0;16.5289256198347;thin;60+;40+
+295;68;male;oui;oui;non;1;oui;oui;oui;oui;oui;non;non;69;1.71;serohematic;30.9;99.72;345;1.1;oui;10;≥50;0.0;15.1;7000;oui;non;0;23.5970042064225;normal;60+;40+
+296;44;male;non;oui;oui;3;non;oui;oui;oui;oui;non;non;82;1.75;serohematic;43;13;960;0.8;oui;10;≥50;0.0;NA;NA;oui;non;0;26.7755102040816;overweight;40 to 60;<40
+297;61;female;oui;oui;oui;2;oui;oui;oui;non;non;non;non;68;1.9;yellowish;39.8;38.46;349;0.56;oui;40;≥50;10.0;NA;NA;oui;non;0;18.8365650969529;normal;60+;<40
+298;66;female;oui;oui;oui;1;oui;oui;oui;non;non;oui;non;52;1.7;yellowish;39;128.54;287;1.34;non;NA;;;NA;NA;oui;non;0;17.9930795847751;thin;60+;40+
+299;63;female;oui;oui;oui;6;oui;oui;oui;non;non;non;non;62;1.73;yellowish;32.3;61.7;645;0.99;non;NA;;;NA;NA;oui;oui;0;20.7156938086805;normal;60+;40+
+300;28;female;oui;non;oui;1;oui;oui;oui;oui;non;non;non;69;1.63;yellowish;34;87.37;675;1.09;non;NA;;;NA;NA;oui;non;0;25.9701155481953;overweight;<40;40+
+301;67;female;oui;oui;oui;4;oui;oui;oui;oui;non;non;oui;75;1.63;yellowish;31.1;51.6;345;0.56;oui;10;≥50;0.0;12;5400;oui;non;1;28.2283864654296;overweight;60+;40+
+302;67;female;oui;oui;oui;1;oui;non;non;non;non;non;non;63;1.66;serohematic;39.6;23.02;769;0.89;oui;20;≥50;0.0;12.2;5600;oui;non;1;22.8625344752504;normal;60+;<40
