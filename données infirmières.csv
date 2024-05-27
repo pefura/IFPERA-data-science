@@ -1,0 +1,26 @@
+Age;Sexe;qualification;durée_travail;nombre_service;formation;durée_formation_semaine;vaccin;doses;patients_atteints;HVC;HVB ;hopital
+38;Féminin;Master;4;Un;Non;;Oui;2;Non;Négatif;Négatif;CHUY
+35;Féminin;Master;3;Un;Oui;2;Non;;Non;Négatif;Négatif;CHUY
+45;Masculin;Master;6;Un;Oui;2;Oui;3;Oui;Négatif;Négatif;CHUY
+53;Masculin;Master;5;Un;Oui;1;Non;;Oui;Négatif;Négatif;CHUY
+34;Féminin;Master;3;Un;Oui;2;Oui;2;Non;Négatif;Négatif;CHUY
+42;Féminin;Master;5;Deux;Oui;2;Oui;2;Non;Négatif;Négatif;CHUY
+46;Féminin;Master;6;Deux;Oui;2;Non;;Non;Inconnu;Inconnu;CHUY
+29;Féminin;Master;2;Un;Oui;2;Oui;;Oui;Négatif;Négatif;CHUY
+45;Masculin;Master;5;Un;Oui;2;Non;;Non;Inconnu;Inconnu;CHUY
+46;Féminin;Master;7;Un;Oui;2;Non;;Non;Inconnu;Inconnu;CHUY
+46;Féminin;Master;5;Un;Oui;2;Non;;Non;Inconnu;Inconnu;CHUY
+45;Féminin;Master;9;Un;Oui;2;Non;;Non;Inconnu;Inconnu;CHUY
+38;Masculin;Master;5;Un;Oui;3;Non;;Non;Inconnu;Inconnu;CHUY
+39;Féminin;Master;5;Un;Non;;Non;;Non;Inconnu;Inconnu;CHUY
+56;Féminin;Licence;2;Un;Oui;2;Oui;2;Oui;Négatif;Négatif;CHUY
+42;Féminin;Licence;8;Un;Oui;2;Oui;3;Oui;Négatif;Négatif;CHUY
+38;Féminin;Licence;4;Un;Oui;2;Oui;3;Non;Inconnu;Inconnu;CHUY
+33;Féminin;Licence;4;Deux;Oui;2;Oui;1;Non;Inconnu;Inconnu;CHUY
+45;Féminin;Licence;3;Deux;Oui;2;Non;;Non;Négatif;Négatif;HRE
+46;Féminin;Master;6;Un;Oui;2;Non;;Non;Négatif;Négatif;HRE
+48;Féminin;Licence;4;Un;Oui;2;Oui;3;Non;Négatif;Négatif;HRE
+35;Féminin;Licence;7;Deux;Non;;Non;;Non;Inconnu;Inconnu;HRE
+36;Masculin;Licence;4;Deux;Non;;Non;;Non;Inconnu;Inconnu;HRE
+34;Féminin;Licence;5;Deux;Non;;Non;;Non;Inconnu;Inconnu;HRE
+29;Féminin;Licence;3;Un;Non;;Non;;Non;Inconnu;Inconnu;HRE
